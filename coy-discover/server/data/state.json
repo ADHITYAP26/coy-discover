@@ -1,0 +1,14 @@
+{
+  "swipes": [
+    {
+      "profileId": "p01",
+      "action": "pass",
+      "createdAt": "2026-11-18T08:33:30.910Z"
+    },
+    {
+      "profileId": "p02",
+      "action": "like",
+      "createdAt": "2026-11-18T08:33:34.364Z"
+    }
+  ]
+}
